@@ -1,0 +1,2 @@
+# Coldmailer
+Coldmailing made easy
