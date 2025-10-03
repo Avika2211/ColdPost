@@ -1,2 +1,2 @@
-# Coldmailer
+# ColdPost
 Coldmailing made easy
